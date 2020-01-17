@@ -1,0 +1,29 @@
+{
+  "name": "multistep_form",
+  "version": "1.0.0",
+  "description": "js,react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiseChannel/MultiStep_Form.git"
+  },
+  "keywords": [
+    "js",
+    "react"
+  ],
+  "author": "wise",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WiseChannel/MultiStep_Form/issues"
+  },
+  "homepage": "https://github.com/WiseChannel/MultiStep_Form#readme",
+  "dependencies": {
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "redux": "^4.0.5",
+    "redux-saga": "^1.1.3"
+  }
+}
